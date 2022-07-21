@@ -1,0 +1,10 @@
+addDonor --- Donor's registration and showing the registered user Id
+addRecipient --- Recipient's registration and showing the registered user Id
+getAllRecipients--- Retrieving all recipient details by admin
+getAllDonors--- Retrieving all Donor details by admin
+donorDetails--- get Donor details only name and status by admin
+updatereq--- Update status of the recipients by id ("Open" to "Close")
+deleteDon--- Delete all "Rejected" Donor details
+donorsAgeBetween--- Filter by demography based on certain criteria
+recipientsAgeBetween--- Filter by demography based on certain criteria
+updateDonorStatus--- Donor approval by Id ("Submitted for approval" to Either "Approved" or "Rejected")
